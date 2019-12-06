@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.myschool.learn.tests.phptravels.navigation.NavigationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-06T03:30:09" hostname="YOWL88397" time="11.58">
+  <properties/>
+  <testcase name="testNavigationToHomepage" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="11.58"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Dec 05, 2019 10:30:05 PM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+Dec 05, 2019 10:30:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
