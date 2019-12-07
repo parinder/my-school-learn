@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7428ad9-4744-4f62-be41-9146cec360dd" name="Default Changelist" comment="" />
+    <list default="true" id="d7428ad9-4744-4f62-be41-9146cec360dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/configurations/ConfigPhpTravels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/configurations/ConfigPhpTravels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/BaseFunctionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/BaseFunctionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/navigation/NavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/navigation/NavigationTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +18,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,26 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.NavigationTest.testNavigationToHomepage">
-    <configuration name="FirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myschool.learn.basic.FirstProgram" />
-      <module name="my-school.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.myschool.learn.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstProgramTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.NavigationTest">
+    <configuration name="NavigationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.basic.FirstProgramTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.navigation.NavigationTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -81,12 +84,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="FirstProgramTest.testFirstProgram" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="NavigationTest.testNavigationToAboutUs" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.basic.FirstProgramTest.testFirstProgram&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.navigation.NavigationTest.testNavigationToAboutUs&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -101,12 +104,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="NavigationTest.testNavigateionToHomepage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="NavigationTest.testNavigationToContactUs" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.navigation.NavigationTest.testNavigateionToHomepage&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.navigation.NavigationTest.testNavigationToContactUs&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -121,12 +124,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="NavigationTest.testNavigationToHomepage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="NavigationTest.testNavigationToPrivacyPolicy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.navigation.NavigationTest.testNavigationToHomepage&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.navigation.NavigationTest.testNavigationToPrivacyPolicy&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="NavigationTest.testNavigationToTermsAndConditions" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.navigation.NavigationTest.testNavigationToTermsAndConditions&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -143,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.NavigationTest.testNavigationToHomepage" />
-        <item itemvalue="Gradle.NavigationTest.testNavigateionToHomepage" />
-        <item itemvalue="Gradle.FirstProgramTest" />
-        <item itemvalue="Gradle.FirstProgramTest.testFirstProgram" />
-        <item itemvalue="Application.FirstProgram" />
+        <item itemvalue="Gradle.NavigationTest" />
+        <item itemvalue="Gradle.NavigationTest.testNavigationToAboutUs" />
+        <item itemvalue="Gradle.NavigationTest.testNavigationToContactUs" />
+        <item itemvalue="Gradle.NavigationTest.testNavigationToTermsAndConditions" />
+        <item itemvalue="Gradle.NavigationTest.testNavigationToPrivacyPolicy" />
       </list>
     </recent_temporary>
   </component>
@@ -167,10 +190,25 @@
       <workItem from="1575223649769" duration="1211000" />
       <workItem from="1575502807468" duration="2674000" />
       <workItem from="1575581971014" duration="13065000" />
+      <workItem from="1575606253290" duration="4768000" />
+      <workItem from="1575671987907" duration="9364000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
