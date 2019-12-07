@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.myschool.learn.tests.phptravels.navigation.NavigationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-06T03:30:09" hostname="YOWL88397" time="11.58">
+<testsuite name="com.myschool.learn.tests.phptravels.navigation.NavigationTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-12-07T01:14:43" hostname="YOWL88397" time="65.415">
   <properties/>
-  <testcase name="testNavigationToHomepage" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="11.58"/>
+  <testcase name="testNavigationToAboutUs" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="21.51"/>
+  <testcase name="testNavigationToBlog" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="10.325"/>
+  <testcase name="testNavigationToContactUs" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="8.161"/>
+  <testcase name="testNavigationToHome" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="3.764"/>
+  <testcase name="testNavigationToHomepage" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="3.199"/>
+  <testcase name="testNavigationToOffers" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="6.153"/>
+  <testcase name="testNavigationToPrivacyPolicy" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="6.349"/>
+  <testcase name="testNavigationToTermsAndConditions" classname="com.myschool.learn.tests.phptravels.navigation.NavigationTest" time="5.95"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Dec 05, 2019 10:30:05 PM org.openqa.selenium.remote.DesiredCapabilities firefox
+  <system-err><![CDATA[Dec 06, 2019 8:14:39 PM org.openqa.selenium.remote.DesiredCapabilities firefox
 INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
-Dec 05, 2019 10:30:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Dec 06, 2019 8:14:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

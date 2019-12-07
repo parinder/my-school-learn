@@ -21,6 +21,7 @@ public class BaseFunctionalTest {
     protected ConfigPhpTravels configPhpTravels;
     protected HomePage homePage;
 
+
     @BeforeClass
     public void setup() throws IOException {
         this.configPhpTravels = new ConfigPhpTravels();
