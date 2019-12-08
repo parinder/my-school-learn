@@ -9,80 +9,98 @@ import org.testng.annotations.Test;
 import java.io.IOException;
 
 public class NavigationTest extends BaseFunctionalTest {
-    protected HomePage homepage;
+    protected HomePage homePage;
 
     @BeforeClass
     public void setup() throws IOException {
         super.setup();
-        this.homepage = new HomePage(this.driver, configPhpTravels);
+        this.homePage = new HomePage(this.driver, configPhpTravels);
     }
 
     @Test(description = "Test Navigate to Homepage")
     public void testNavigationToHomepage() {
-        this.homepage.get();
-        this.homepage.waitForPageLoad();
-        Assert.assertTrue(this.homepage.homePageTitleIsVisible(), "Homepage Title is Visible");
-        Assert.assertTrue(this.homepage.homePageTitle.getAttribute("alt").contains("PHPTRAVELS | Travel Technology Partner"), "HomePage Title is Valid");
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        Assert.assertTrue(this.homePage.homePageTitleIsVisible(), "Homepage Title is Visible");
+        Assert.assertTrue(this.homePage.homePageTitle.getAttribute("alt").contains("PHPTRAVELS | Travel Technology Partner"), "HomePage Title is Valid");
 
     }
 
     @Test(description = "Test Navigate to Home ")
     public void testNavigationToHome() {
-        this.homepage.get();
-        this.homepage.waitForPageLoad();
-        this.homepage.clickHome();
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        this.homePage.clickHome();
         Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net"), "Home Menu Item Url is Valid");
     }
 
     @Test(description = "Test Navigate to Blog ")
     public void testNavigationToBlog() {
-        this.homepage.get();
-        this.homepage.waitForPageLoad();
-        this.homepage.clickBlog();
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        this.homePage.clickBlog();
         Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net/blog"), "Blog Menu Item Url is Valid");
     }
 
     @Test(description = "Test Navigate to Offers ")
     public void testNavigationToOffers() {
-        this.homepage.get();
-        this.homepage.waitForPageLoad();
-        this.homepage.clickOffers();
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        this.homePage.clickOffers();
         Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net/offers"), "Offers Menu Item Url is Valid");
     }
 
     @Test(description = "Test Navigate to About Us ")
     public void testNavigationToAboutUs() {
-        this.homepage.get();
-        this.homepage.waitForPageLoad();
-        this.homepage.hoverOverCompanyDropDownList();
-        this.homepage.clickAboutUs();
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        this.homePage.hoverOverCompanyDropDownList();
+        this.homePage.clickAboutUs();
         Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net/about-Us"), "About Us Menu Item Url is Valid");
     }
 
     @Test(description = "Test Navigate to Contact Us ")
     public void testNavigationToContactUs() {
-        this.homepage.get();
-        this.homepage.waitForPageLoad();
-        this.homepage.hoverOverCompanyDropDownList();
-        this.homepage.clickContactUs();
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        this.homePage.hoverOverCompanyDropDownList();
+        this.homePage.clickContactUs();
         Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net/contact-Us"), "Contact Us Menu Item Url is Valid");
     }
 
     @Test(description = "Test Navigate to Terms & Conditions ")
     public void testNavigationToTermsAndConditions() {
-        this.homepage.get();
-        this.homepage.waitForPageLoad();
-        this.homepage.hoverOverCompanyDropDownList();
-        this.homepage.clickTermsAndConditions();
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        this.homePage.hoverOverCompanyDropDownList();
+        this.homePage.clickTermsAndConditions();
         Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net/terms-of-use"), "Terms & Conditions Menu Item Url is Valid");
     }
 
     @Test(description = "Test Navigate to Privacy Policy ")
     public void testNavigationToPrivacyPolicy() {
-        this.homepage.get();
-        this.homepage.waitForPageLoad();
-        this.homepage.hoverOverCompanyDropDownList();
-        this.homepage.clickPrivacyPolicy();
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        this.homePage.hoverOverCompanyDropDownList();
+        this.homePage.clickPrivacyPolicy();
        Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net/privacy-policy"), "Privacy Policy Menu Item Url is Valid");
+    }
+
+    @Test(description = "Test Navigate to Login Page ")
+    public void testNavigationToLogin() {
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        this.homePage.clickMyAccount();
+        this.homePage.selectLoginOption();
+        Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net/login"), "Login Page Url is Valid");
+    }
+
+    @Test(description = "Test Navigate to SignUp Page ")
+    public void testNavigationToSignUp() {
+        this.homePage.get();
+        this.homePage.waitForPageLoad();
+        this.homePage.clickMyAccount();
+        this.homePage.selectSignUpOption();
+        Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net/register"), "SignUp Page Url is Valid");
     }
 }
