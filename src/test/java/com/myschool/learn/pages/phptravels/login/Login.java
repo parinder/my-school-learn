@@ -42,13 +42,23 @@ public class Login extends BasePage {
 
     public void clickLoginButton() {
         this.loginButton.click();
-        this.wait.until(ExpectedConditions.urlToBe("https://www.phptravels.net/account/"));
-        this.wait.until(ExpectedConditions.visibilityOf(this.firstLastNameMessage));
     }
 
     public String getFirstLastName() {
         this.wait.until(ExpectedConditions.visibilityOf(this.firstLastNameMessage));
         return this.firstLastNameMessage.getText();
 
+    }
+
+    public void getSuccessLoginUrl() {
+        this.wait.until(ExpectedConditions.urlToBe("https://www.phptravels.net/account/"));
+    }
+
+    @FindBy(xpath = "//div[@class='alert alert-danger']")
+    WebElement loginErrorMessage;
+
+    public String getLoginErrorMessage() {
+        this.wait.until(ExpectedConditions.visibilityOf(this.loginErrorMessage));
+        return this.loginErrorMessage.getText();
     }
 }

@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7428ad9-4744-4f62-be41-9146cec360dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/pasingh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/login/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/profile/Profile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/home/SectionLinksTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/login/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/navigation/NavigationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/navigation/NavigationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/my-school-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/my-school-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.myschool.learn.tests.phptravels.navigation.NavigationTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.myschool.learn.tests.phptravels.navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/configuration/local-phptravels-firefox-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/configuration/local-phptravels-firefox-config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.myschool.learn.tests.phptravels.navigation.NavigationTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/navigation/NavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/navigation/NavigationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration/local-phptravels-firefox-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configuration/local-phptravels-firefox-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/login/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/login/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/login/LoginTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +40,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="phptravels-framework" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UOFvZUIYpz8kzsJOy7SAIWeb9E" />
@@ -93,12 +72,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.LoginTest.testLoginWithExistingProfile">
-    <configuration name="LoginTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LoginTest.testLoginWithExistingProfile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.login.LoginTest&quot; --scan" />
+        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.login.LoginTest.testLoginWithExistingProfile&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -113,12 +92,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="LoginTest.testLoginWithExistingProfile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LoginTest.testLoginWithNonExistingProfile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.login.LoginTest.testLoginWithExistingProfile&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.login.LoginTest.testLoginWithNonExistingProfile&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -196,8 +175,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.LoginTest.testLoginWithExistingProfile" />
+        <item itemvalue="Gradle.LoginTest.testLoginWithNonExistingProfile" />
         <item itemvalue="Gradle.SectionLinksTest.testChooseUserLanguage" />
-        <item itemvalue="Gradle.LoginTest" />
         <item itemvalue="Gradle.SectionLinksTest.testChooseUserCurrency" />
         <item itemvalue="Gradle.NavigationTest.testNavigationToPrivacyPolicy" />
       </list>
@@ -220,7 +199,9 @@
       <workItem from="1575502807468" duration="2674000" />
       <workItem from="1575581971014" duration="13065000" />
       <workItem from="1575606253290" duration="4768000" />
-      <workItem from="1575671987907" duration="32472000" />
+      <workItem from="1575671987907" duration="33315000" />
+      <workItem from="1575906341632" duration="36000" />
+      <workItem from="1576031856803" duration="2761000" />
     </task>
     <servers />
   </component>
