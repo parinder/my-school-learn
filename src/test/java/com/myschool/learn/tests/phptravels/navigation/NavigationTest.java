@@ -26,7 +26,7 @@ public class NavigationTest extends BaseFunctionalTest {
 
     }
 
-    @Test(description = "Test Navigate to Home ")
+    @Test(description = "Test Navigate to Home via Homepage ")
     public void testNavigationToHome() {
         this.homePage.get();
         this.homePage.waitForPageLoad();

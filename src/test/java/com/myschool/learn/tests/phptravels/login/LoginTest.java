@@ -33,8 +33,8 @@ public class LoginTest extends BaseFunctionalTest {
     public void testLoginWithNonExistingProfile() {
         this.login.get();
         this.login.waitForPageLoad();
-        this.login.enterEmail("lilly.tamara@test.com");
-        this.login.enterPassword("Quality1!");
+        this.login.enterEmail("xxxx.xxxx@xxx.com");
+        this.login.enterPassword("xxxxx!");
         this.login.clickLoginButton();
         Assert.assertTrue(this.driver.getCurrentUrl().contains("https://www.phptravels.net/login"), "Login Un-success Url is Valid");
         Assert.assertTrue(this.login.getLoginErrorMessage().contains("Invalid Email or Password"), "Login Contains Invalid email & password");
