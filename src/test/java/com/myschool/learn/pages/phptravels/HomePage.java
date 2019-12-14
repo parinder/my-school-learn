@@ -295,8 +295,6 @@ public class HomePage extends BasePage {
     @FindBy(xpath="//div[7]//nav[1]//div[2]")
     protected WebElement currentYearMonth;
 
-    public String getCurrentMonthYear() {
-    }
 
     @FindBy(xpath="//div[@id='datepickers-container']")
     protected WebElement datePicker;

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?Label {{MicroProperty}}|RESERVATION|{{Random}}|SUCCESS ?>
+<Reservation xmlns="reservation.fidelio.3.0" mfReservationAction="ADD" mfShareAction="NA">
+    <HotelReference>
+        <hotelCode>{{MicroProperty}}</hotelCode>
+    </HotelReference>
+    <reservationID>{{Random}}</reservationID>
+    <reservationOriginatorCode>*SYNXIS2*</reservationOriginatorCode>
+    <originalBookingDate>2019-02-25T01:55:12.000</originalBookingDate>
+    <StayDateRange timeUnitType="DAY">
+        <startTime>{{CheckIN}}T15:46:04.652</startTime>
+        <numberOfTimeUnits>5</numberOfTimeUnits>
+    </StayDateRange>
+    <GuestCounts>
+        <GuestCount>
+            <ageQualifyingCode>ADULT</ageQualifyingCode>
+            <mfCount>1</mfCount>
+        </GuestCount>
+        <GuestCount>
+            <ageQualifyingCode>CHILD</ageQualifyingCode>
+            <mfCount>0</mfCount>
+        </GuestCount>
+    </GuestCounts>
+    <ResGuests>
+        <ResGuest reservationActionType="NEW">
+            <resGuestRPH>0</resGuestRPH>
+            <profileRPHs>0</profileRPHs>
+            <ageQualifyingCode>ADULT</ageQualifyingCode>
+            <InHouseTimeSpan timeUnitType="DAY">
+                <startTime>{{CheckIN}}T15:46:04.652</startTime>
+                <numberOfTimeUnits>5</numberOfTimeUnits>
+            </InHouseTimeSpan>
+            <ArrivalTransport />
+            <DepartureTransport />
+            <arrivalTime>2019-10-01T15:46:04.652</arrivalTime>
+            <departureTime>2019-10-08T15:46:04.652</departureTime>
+            <reservationID>{{Random}}</reservationID>
+            <ReservationReferences>
+                <ReservationReference legNumber="1" referenceNumber="{{Random}}" type="PMSID" />
+            </ReservationReferences>
+        </ResGuest>
+    </ResGuests>
+    <ResProfiles>
+        <ResProfile>
+            <Profile xmlns="profile.fidelio.3.0" gender="U" miniProfile="0" multiProperty="0" profileType="CONTACT" pseudoProfile="0" replaceAddress="0">
+                <profileID>{{profile_id}}</profileID>
+                <creatorCode>*SYNXIS2*</creatorCode>
+                <createdDate>2016-03-25T00:54:33.000</createdDate>
+                <lastUpdaterCode>*SYNXIS2*</lastUpdaterCode>
+                <lastUpdated>2017-02-25T01:55:11.000</lastUpdated>
+                <genericName />
+                <IndividualName>
+                    <namePrefix />
+                    <nameFirst>{{fname}}</nameFirst>
+                    <nameMiddle />
+                    <nameSur>{{lname}}</nameSur>
+                </IndividualName>
+                <ElectronicAddresses>
+                    <ElectronicAddress electronicAddressType="EMAIL">
+                        <eAddress>{{email}}</eAddress>
+                        <mfPrimaryYN>Y</mfPrimaryYN>
+                        <confirmation>0</confirmation>
+                    </ElectronicAddress>
+                </ElectronicAddresses>
+                <PostalAddresses>
+                    <PostalAddress addressType="HOME">
+                        <address1 />
+                        <city />
+                        <stateCode />
+                        <postalCode />
+                        <countryCode />
+                        <mfPrimaryYN>Y</mfPrimaryYN>
+                        <cleansed>0</cleansed>
+                    </PostalAddress>
+                </PostalAddresses>
+                <PhoneNumbers>
+                    <PhoneNumber phoneNumberType="HOME">
+                        <phoneNumber>54515693291689</phoneNumber>
+                        <mfPrimaryYN>Y</mfPrimaryYN>
+                        <confirmation>0</confirmation>
+                    </PhoneNumber>
+                </PhoneNumbers>
+                <mfResort>{{MicroProperty}}</mfResort>
+                <mfResortProfileID>{{profile_id}}</mfResortProfileID>
+                <mfAllowMail>NO</mfAllowMail>
+                <mfAllowEmail>NO</mfAllowEmail>
+                <mfGuestPriv>NO</mfGuestPriv>
+                <mfAllowPhone>0</mfAllowPhone>
+                <mfAllowSMS>0</mfAllowSMS>
+                <SalesExtention />
+                <PrivacyOption>
+                    <mfAllowMail>Y</mfAllowMail>
+                    <mfAllowEmail>N</mfAllowEmail>
+                    <mfAllowPhone>0</mfAllowPhone>
+                    <mfAllowSMS>0</mfAllowSMS>
+                    <mfAllowHistory>1</mfAllowHistory>
+                </PrivacyOption>
+            </Profile>
+            <resProfileRPH>0</resProfileRPH>
+        </ResProfile>
+    </ResProfiles>
+    <RoomStays>
+        <RoomStay mfReservationAction="NA" mfShareAction="NA" reservationActionType="NEW" reservationStatusType="RESERVED">
+            <roomInventoryCode>TXY</roomInventoryCode>
+            <TimeSpan timeUnitType="DAY">
+                <startTime>{{CheckIN}}T15:46:04.652</startTime>
+                <numberOfTimeUnits>2</numberOfTimeUnits>
+            </TimeSpan>
+            <GuestCounts>
+                <GuestCount>
+                    <ageQualifyingCode>ADULT</ageQualifyingCode>
+                    <mfCount>1</mfCount>
+                </GuestCount>
+                <GuestCount>
+                    <ageQualifyingCode>CHILD</ageQualifyingCode>
+                    <mfCount>0</mfCount>
+                </GuestCount>
+            </GuestCounts>
+            <RatePlans>
+                <RatePlan reservationActionType="NEW">
+                    <ratePlanRPH>0</ratePlanRPH>
+                    <ratePlanCode>SEAYOUSOON</ratePlanCode>
+                    <TimeSpan timeUnitType="DAY">
+                        <startTime>{{CheckIN}}T15:46:04.652</startTime>
+                        <numberOfTimeUnits>2</numberOfTimeUnits>
+                    </TimeSpan>
+                    <mfMarketCode>DISCO</mfMarketCode>
+                    <Rates>
+                        <Rate rateBasisTimeUnitType="DAY" reservationActionType="NEW">
+                            <rateRPH>0</rateRPH>
+                            <Amount currencyCode="USD">
+                                <valueNum>250</valueNum>
+                            </Amount>
+                            <rateBasisUnits>1</rateBasisUnits>
+                            <TimeSpan timeUnitType="DAY">
+                                <startTime>{{CheckIN}}T15:46:04.652</startTime>
+                                <numberOfTimeUnits>2</numberOfTimeUnits>
+                            </TimeSpan>
+                            <mfAdults>1</mfAdults>
+                            <mfChildren>0</mfChildren>
+                            <mfCribs>0</mfCribs>
+                            <mfExtraBeds>0</mfExtraBeds>
+                            <mfsourceCode>HW</mfsourceCode>
+                            <mfMarketCode>DISCO</mfMarketCode>
+                        </Rate>
+                    </Rates>
+                    <mfsourceCode>HW</mfsourceCode>
+                </RatePlan>
+            </RatePlans>
+            <marketSegmentCode>DISCO</marketSegmentCode>
+            <resGuestRPHs>0</resGuestRPHs>
+            <GuaranteeInfo guaranteeType="NA">
+                <mfGuaranteeType>CC</mfGuaranteeType>
+                <GuaranteeDeposit>
+                    <Amount currencyCode="USD" />
+                    <cancelIfNotReceived>0</cancelIfNotReceived>
+                </GuaranteeDeposit>
+            </GuaranteeInfo>
+            <PaymentInstructions>
+                <PaymentInstruction paymentMethodType="CREDITCARD">
+                    <mfPaymentMethod>VA</mfPaymentMethod>
+                    <resCreditCardRPH>0</resCreditCardRPH>
+                    <PaymentDue>
+                        <Amount currencyCode="USD" />
+                        <cancelIfNotReceived>0</cancelIfNotReceived>
+                    </PaymentDue>
+                </PaymentInstruction>
+            </PaymentInstructions>
+            <mfsourceCode>HW</mfsourceCode>
+            <mfchannelCode>WEB</mfchannelCode>
+            <mfconfidentialRate>0</mfconfidentialRate>
+        </RoomStay>
+    </RoomStays>
+    <Services>
+        <Service reservationActionType="CHANGE" servicePricingType="NA" reservationStatusType="NA">
+            <serviceRPH>0</serviceRPH>
+            <serviceInventoryCode>{{ServiceCode}}</serviceInventoryCode>
+            <ratePlanCode>BAR</ratePlanCode>
+            <TimeSpan timeUnitType="DAY">
+                <startTime>2018-07-30T00:00:00.000</startTime>
+                <numberOfTimeUnits>2</numberOfTimeUnits>
+            </TimeSpan>
+            <Price currencyCode="USD">
+                <valueNum>35</valueNum>
+            </Price>
+            <quantity>1</quantity>
+            <ServicePrices>
+                <ServicePrice>
+                    <beginDate>2018-07-30</beginDate>
+                    <endDate>2018-07-31</endDate>
+                    <unitPrice>17.5</unitPrice>
+                </ServicePrice>
+            </ServicePrices>
+        </Service>
+    </Services>
+    <resProfileRPHs>0</resProfileRPHs>
+    <mfupdateDate>2017-02-25T01:55:12.000</mfupdateDate>
+    <mfcomplementary>0</mfcomplementary>
+    <mfImage>
+        <numRooms>1</numRooms>
+        <Describe>
+            <resortName>Queen Mary Hotel</resortName>
+            <insertUser>*SYNXIS2*</insertUser>
+            <updateUser>*SYNXIS2*</updateUser>
+            <roomCategory>Inside Twin. Windowless inside stateroom with 2 twin beds.</roomCategory>
+            <rateCode>Return Stay Offer</rateCode>
+            <marketCode>Discount Other</marketCode>
+            <guarantee>CC: Credit Card Gtd</guarantee>
+            <company>CHA</company>
+        </Describe>
+        <Change>
+            <bSource>1</bSource>
+            <bArrivalDate>1</bArrivalDate>
+            <bNumNights>1</bNumNights>
+            <bNumAdults>1</bNumAdults>
+            <bNumChildren>1</bNumChildren>
+            <bNumRooms>1</bNumRooms>
+            <bCribs>0</bCribs>
+            <bRoomCategory>1</bRoomCategory>
+            <bRateCode>1</bRateCode>
+            <bRateAmount>1</bRateAmount>
+            <bMarketCode>1</bMarketCode>
+            <bPaymentType>1</bPaymentType>
+            <bGuarType>1</bGuarType>
+            <bDiscountReason>0</bDiscountReason>
+            <bMultipleRateYN>0</bMultipleRateYN>
+            <bResvStatus>1</bResvStatus>
+        </Change>
+    </mfImage>
+</Reservation>

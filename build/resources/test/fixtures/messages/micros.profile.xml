@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile gender="Male" miniProfile="0" multiProperty="0" profileType="GUEST" pseudoProfile="0" replaceAddress="0" xmlns="profile.fidelio.5.0">
+    <creatorCode>TESTCREATORCODE</creatorCode>
+    <createdDate>2018-04-14T05:47:21.000</createdDate>
+    <lastUpdaterCode>TESTCREATORCODE</lastUpdaterCode>
+    <lastUpdated>2018-04-14T05:47:21.000</lastUpdated>
+    <genericName>{{fname}}</genericName>
+    <IndividualName>
+        <nameFirst>{{fname}}</nameFirst>
+        <nameSur>{{lname}}</nameSur>
+    </IndividualName>
+    <ElectronicAddresses>
+        <ElectronicAddress electronicAddressType="EMAIL">
+            <eAddress>{{email}}</eAddress>
+            <mfPrimaryYN>Y</mfPrimaryYN>
+            <confirmation>0</confirmation>
+        </ElectronicAddress>
+    </ElectronicAddresses>
+    <PostalAddresses>
+        <PostalAddress addressType="HOME">
+            <address1>123 Test Street</address1>
+            <city>Ottawa</city>
+            <postalCode>K1Y 3B2</postalCode>
+            <countryCode>CA</countryCode>
+            <mfPrimaryYN>Y</mfPrimaryYN>
+            <cleansed>0</cleansed>
+        </PostalAddress>
+    </PostalAddresses>
+    <PhoneNumbers>
+        <PhoneNumber phoneNumberType="HOME">
+            <phoneNumber>(613) 123-1234</phoneNumber>
+            <mfPrimaryYN>Y</mfPrimaryYN>
+            <confirmation>0</confirmation>
+        </PhoneNumber>
+    </PhoneNumbers>
+    <mfResort>{{MicroProperty}}</mfResort>
+    <mfResortProfileID>{{profile_id}}</mfResortProfileID>
+    <mfAllowMail>NO</mfAllowMail>
+    <mfAllowEmail>NO</mfAllowEmail>
+    <mfGuestPriv>NO</mfGuestPriv>
+    <mfAllowPhone>0</mfAllowPhone>
+    <mfAllowSMS>0</mfAllowSMS>
+    <SalesExtention />
+    <PrivacyOption>
+        <mfAllowMail>yes</mfAllowMail>
+        <mfAllowEmail>yes</mfAllowEmail>
+        <mfAllowPhone>yes</mfAllowPhone>
+        <mfAllowSMS>yes</mfAllowSMS>
+        <mfAllowHistory>yes</mfAllowHistory>
+    </PrivacyOption>
+    <ResortList>{{MicroProperty}}</ResortList>
+    <MultiResortEntities>
+        <MultiResortEntity included="1">
+            <entity>ROUTING_INSTRUCTIONS</entity>
+        </MultiResortEntity>
+        <MultiResortEntity included="0">
+            <entity>CREDIT_CARDS</entity>
+        </MultiResortEntity>
+        <MultiResortEntity included="0">
+            <entity>RESORT_ARS</entity>
+        </MultiResortEntity>
+        <MultiResortEntity included="1">
+            <entity>COMMENTS</entity>
+        </MultiResortEntity>
+        <MultiResortEntity included="1">
+            <entity>PREFERENCES</entity>
+        </MultiResortEntity>
+        <MultiResortEntity included="1">
+            <entity>NEGOTIATED_RATES</entity>
+        </MultiResortEntity>
+        <MultiResortEntity included="1">
+            <entity>RESORT_NEG_RATES</entity>
+        </MultiResortEntity>
+        <MultiResortEntity included="1">
+            <entity>CHANNEL_ACCESS_CODES</entity>
+        </MultiResortEntity>
+        <MultiResortEntity included="1">
+            <entity>YIELD_ADJUSTMENTS</entity>
+        </MultiResortEntity>
+        <MultiResortEntity included="0">
+            <entity>RELATIONSHIPS</entity>
+        </MultiResortEntity>
+    </MultiResortEntities>
+</Profile>

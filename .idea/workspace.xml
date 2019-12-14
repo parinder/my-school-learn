@@ -2,36 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7428ad9-4744-4f62-be41-9146cec360dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/searchengine/FlightsSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/searchengine/HotelsSearchTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/login/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/navigation/NavigationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/navigation/NavigationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.myschool.learn.tests.phptravels.login.LoginTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.myschool.learn.tests.phptravels.login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.myschool.learn.tests.phptravels.login.LoginTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/configurations/ConfigPhpTravels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/junit/basic/FirstProgramTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/login/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/profile/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/BaseFunctionalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/home/SectionLinksTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/login/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/navigation/NavigationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/searchengine/FlightsSearchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/searchengine/HotelsSearchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.myschool.learn.tests.phptravels.searchengine.FlightsSearchTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.myschool.learn.tests.phptravels.searchengine.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.myschool.learn.tests.phptravels.searchengine.FlightsSearchTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/login/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/login/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/navigation/NavigationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/tests/phptravels/navigation/NavigationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="310" />
@@ -75,6 +88,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -84,7 +98,27 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Gradle.FlightsSearchTest.testToGetFlightsSearchFields1">
+  <component name="RunManager" selected="Gradle.AccessTest.testAccessToPms">
+    <configuration name="AccessTest.testAccessToPms" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gms.tests.access.AccessTest.testAccessToPms&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="FlightsSearchTest.testToGetFlightsSearchFields" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -165,33 +199,13 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="SectionLinksTest.testChooseUserLanguage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.home.SectionLinksTest.testChooseUserLanguage&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.AccessTest.testAccessToPms" />
         <item itemvalue="Gradle.FlightsSearchTest.testToGetFlightsSearchFields1" />
         <item itemvalue="Gradle.FlightsSearchTest.testToGetFlightsSearchFields" />
         <item itemvalue="Gradle.LoginTest.testLoginWithExistingProfile" />
         <item itemvalue="Gradle.LoginTest.testLoginWithNonExistingProfile" />
-        <item itemvalue="Gradle.SectionLinksTest.testChooseUserLanguage" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +244,8 @@
       <workItem from="1576193244150" duration="9950000" />
       <workItem from="1576249456016" duration="3843000" />
       <workItem from="1576281028359" duration="4552000" />
-      <workItem from="1576335316677" duration="3866000" />
+      <workItem from="1576335316677" duration="4687000" />
+      <workItem from="1576340058182" duration="2171000" />
     </task>
     <servers />
   </component>
@@ -251,32 +266,40 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1875" height="307" key="GridCell.Tab.0.bottom" timestamp="1576338432325">
+    <state width="1877" height="307" key="GridCell.Tab.0.bottom" timestamp="1576342259228">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
-    <state width="1875" height="307" key="GridCell.Tab.0.bottom/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576338432325" />
-    <state width="1875" height="307" key="GridCell.Tab.0.center" timestamp="1576338432325">
+    <state width="1877" height="307" key="GridCell.Tab.0.bottom/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342259228" />
+    <state width="1877" height="307" key="GridCell.Tab.0.center" timestamp="1576342259228">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
-    <state width="1875" height="307" key="GridCell.Tab.0.center/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576338432325" />
-    <state width="1875" height="307" key="GridCell.Tab.0.left" timestamp="1576338432325">
+    <state width="1877" height="307" key="GridCell.Tab.0.center/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342259228" />
+    <state width="1877" height="307" key="GridCell.Tab.0.left" timestamp="1576342259228">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
-    <state width="1875" height="307" key="GridCell.Tab.0.left/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576338432325" />
-    <state width="1875" height="307" key="GridCell.Tab.0.right" timestamp="1576338432325">
+    <state width="1877" height="307" key="GridCell.Tab.0.left/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342259228" />
+    <state width="1877" height="307" key="GridCell.Tab.0.right" timestamp="1576342259228">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
-    <state width="1875" height="307" key="GridCell.Tab.0.right/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576338432325" />
-    <state x="1451" y="-915" key="SettingsEditor" timestamp="1576281193724">
+    <state width="1877" height="307" key="GridCell.Tab.0.right/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342259228" />
+    <state x="1451" y="-915" key="SettingsEditor" timestamp="1576340036358">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
     <state x="1311" y="-917" key="SettingsEditor/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576250362058" />
-    <state x="1451" y="-915" key="SettingsEditor/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576281193724" />
-    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog" timestamp="1576335921162">
+    <state x="1451" y="-915" key="SettingsEditor/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576340036358" />
+    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog" timestamp="1576340134247">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
     <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@0.0.1280.689" timestamp="1576250065490" />
-    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576335921162" />
+    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576340134247" />
+    <state x="1581" y="-985" width="710" height="855" key="find.popup" timestamp="1576342157279">
+      <screen x="976" y="-1082" width="1920" height="1050" />
+    </state>
+    <state x="1581" y="-985" width="710" height="855" key="find.popup/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342157279" />
+    <state x="1678" y="-927" key="refactoring.ChangeSignatureDialog" timestamp="1576341550904">
+      <screen x="976" y="-1082" width="1920" height="1050" />
+    </state>
+    <state x="1678" y="-927" key="refactoring.ChangeSignatureDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576341550904" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/my_school$LoginTest.ic" NAME="LoginTest Coverage Results" MODIFIED="1575774484110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
