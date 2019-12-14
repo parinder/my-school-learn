@@ -1,0 +1,18 @@
+# project files
+/.gradle/
+/.settings/
+/.metadata/
+/.vscode/
+.classpath
+.project
+
+# build files
+/build/
+/bin/
+
+# output files
+/.allure/
+/allure-report/
+/allure-results/
+/target/
+/test-output/
