@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7428ad9-4744-4f62-be41-9146cec360dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/configurations/ConfigPhpTravels.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/junit/basic/FirstProgramTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/login/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/pages/phptravels/profile/Profile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/BaseFunctionalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/home/SectionLinksTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/login/LoginTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/navigation/NavigationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/searchengine/FlightsSearchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/tests/phptravels/searchengine/HotelsSearchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.myschool.learn.tests.phptravels.searchengine.FlightsSearchTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.myschool.learn.tests.phptravels.searchengine.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.myschool.learn.tests.phptravels.searchengine.FlightsSearchTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/pages/phptravels/HomePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +65,33 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Gradle.AccessTest.testAccessToPms">
+  <component name="RunManager" selected="Gradle.AddressBookSmokeTest.testAutoPurgeConfigurationPage">
     <configuration name="AccessTest.testAccessToPms" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;com.gms.tests.access.AccessTest.testAccessToPms&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="AddressBookSmokeTest.testAutoPurgeConfigurationPage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.gms.smoke.AddressBookSmokeTest.testAutoPurgeConfigurationPage&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -159,32 +146,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="LoginTest.testLoginWithExistingProfile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="LoginTest.testSuccessfulGmsLogin" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.login.LoginTest.testLoginWithExistingProfile&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="LoginTest.testLoginWithNonExistingProfile" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.tests.phptravels.login.LoginTest.testLoginWithNonExistingProfile&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.gms.tests.login.LoginTest.testSuccessfulGmsLogin&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -201,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.AddressBookSmokeTest.testAutoPurgeConfigurationPage" />
+        <item itemvalue="Gradle.LoginTest.testSuccessfulGmsLogin" />
         <item itemvalue="Gradle.AccessTest.testAccessToPms" />
         <item itemvalue="Gradle.FlightsSearchTest.testToGetFlightsSearchFields1" />
         <item itemvalue="Gradle.FlightsSearchTest.testToGetFlightsSearchFields" />
-        <item itemvalue="Gradle.LoginTest.testLoginWithExistingProfile" />
-        <item itemvalue="Gradle.LoginTest.testLoginWithNonExistingProfile" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +212,9 @@
       <workItem from="1576249456016" duration="3843000" />
       <workItem from="1576281028359" duration="4552000" />
       <workItem from="1576335316677" duration="4687000" />
-      <workItem from="1576340058182" duration="2171000" />
+      <workItem from="1576340058182" duration="6091000" />
+      <workItem from="1576346254530" duration="357000" />
+      <workItem from="1576346629804" duration="60000" />
     </task>
     <servers />
   </component>
@@ -266,32 +235,40 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="307" key="GridCell.Tab.0.bottom" timestamp="1576342259228">
+    <state x="1622" y="-631" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576345915371">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.bottom/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342259228" />
-    <state width="1877" height="307" key="GridCell.Tab.0.center" timestamp="1576342259228">
+    <state x="1622" y="-631" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576345915371" />
+    <state x="1507" y="-1082" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576346002303">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.center/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342259228" />
-    <state width="1877" height="307" key="GridCell.Tab.0.left" timestamp="1576342259228">
+    <state x="1507" y="-1082" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346002303" />
+    <state width="1882" height="207" key="GridCell.Tab.0.bottom" timestamp="1576346230073">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.left/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342259228" />
-    <state width="1877" height="307" key="GridCell.Tab.0.right" timestamp="1576342259228">
+    <state width="1882" height="207" key="GridCell.Tab.0.bottom/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346230073" />
+    <state width="1882" height="207" key="GridCell.Tab.0.center" timestamp="1576346230073">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
-    <state width="1877" height="307" key="GridCell.Tab.0.right/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342259228" />
+    <state width="1882" height="207" key="GridCell.Tab.0.center/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346230073" />
+    <state width="1882" height="207" key="GridCell.Tab.0.left" timestamp="1576346230073">
+      <screen x="976" y="-1082" width="1920" height="1050" />
+    </state>
+    <state width="1882" height="207" key="GridCell.Tab.0.left/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346230073" />
+    <state width="1882" height="207" key="GridCell.Tab.0.right" timestamp="1576346230073">
+      <screen x="976" y="-1082" width="1920" height="1050" />
+    </state>
+    <state width="1882" height="207" key="GridCell.Tab.0.right/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346230073" />
     <state x="1451" y="-915" key="SettingsEditor" timestamp="1576340036358">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
     <state x="1311" y="-917" key="SettingsEditor/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576250362058" />
     <state x="1451" y="-915" key="SettingsEditor/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576340036358" />
-    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog" timestamp="1576340134247">
+    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog" timestamp="1576346630839">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
     <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@0.0.1280.689" timestamp="1576250065490" />
-    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576340134247" />
+    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346630839" />
     <state x="1581" y="-985" width="710" height="855" key="find.popup" timestamp="1576342157279">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.myschool.learn.gms.smoke.AddressBookSmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-14T17:55:38" hostname="YOWL88397" time="1.522">
+  <properties/>
+  <testcase name="testAutoPurgeConfigurationPage" classname="com.myschool.learn.gms.smoke.AddressBookSmokeTest" time="1.522"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[1 [Test worker] INFO com.github.javafaker.Faker - Using default locale en
+Dec 14, 2019 12:55:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
