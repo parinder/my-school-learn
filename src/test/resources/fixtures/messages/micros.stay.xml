@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Stay xmlns="stay.fidelio.3.0">
+  <HotelReference>
+    <hotelCode>{{MicroProperty}}</hotelCode>
+  </HotelReference>
+  <resortBookNo>{{RandomStay}}</resortBookNo>
+  <pmsGuestId>{{profile_id}}</pmsGuestId>
+  <actualArrivalDate>2018-04-13T00:00:00.000</actualArrivalDate>
+  <actualDepartureDate>2018-04-13T00:00:00.000</actualDepartureDate>
+  <bookDate>2018-04-13T00:00:00.000</bookDate>
+  <bookedDepartureDate>2018-04-13T00:00:00.000</bookedDepartureDate>
+  <bookedArrivalDate>2018-04-13T00:00:00.000</bookedArrivalDate>
+  <compYN>N</compYN>
+  <adults>0</adults>
+  <children>0</children>
+  <pmsRoomCategory>LXK</pmsRoomCategory>
+  <roomNumber>0950</roomNumber>
+  <pmsRateCode>ZNR_SHARE</pmsRateCode>
+  <pmsRate currencyCode="AUD">
+    <valueNum>0</valueNum>
+  </pmsRate>
+  <pmsCurrencyCode>AUD</pmsCurrencyCode>
+  <sourceCode>VIP</sourceCode>
+  <marketCode>LCS</marketCode>
+  <pmsGroupId>4704383</pmsGroupId>
+  <pmsCompanyId>251517</pmsCompanyId>
+  <channel>TEL</channel>
+  <paymentMethod>GTS</paymentMethod>
+  <rateCurrencyCode>AUD</rateCurrencyCode>
+  <allotmentCode>VIPINT2018A</allotmentCode>
+  <totalRevenue>0</totalRevenue>
+  <roomRevenue>0</roomRevenue>
+  <fbRevenue>0</fbRevenue>
+  <StayRevenues>
+    <StayRevenue>
+      <revenueType>Room Revenue</revenueType>
+      <Amount currencyCode="AUD">
+        <valueNum>300</valueNum>
+      </Amount>
+    </StayRevenue>
+    <StayRevenue>
+      <revenueType>F B Revenue</revenueType>
+      <Amount currencyCode="AUD">
+        <valueNum>200</valueNum>
+      </Amount>
+    </StayRevenue>
+    <StayRevenue>
+      <revenueType>Other Revenue</revenueType>
+      <Amount currencyCode="AUD">
+        <valueNum>100</valueNum>
+      </Amount>
+    </StayRevenue>
+    <StayRevenue>
+      <revenueType>Other Revenue</revenueType>
+      <Amount currencyCode="AUD">
+        <valueNum>100</valueNum>
+      </Amount>
+    </StayRevenue>
+  </StayRevenues>
+  <resortLegNo>1</resortLegNo>
+  <reservationID>{{RandomStay}}</reservationID>
+  <reservationStatus>CHECKED OUT</reservationStatus>
+  <DailyRates>
+    <DailyRate>
+      <trxDate>2018-04-13</trxDate>
+      <pmsRateCode>ZNR_SHARE</pmsRateCode>
+      <marketCode>LCS</marketCode>
+      <pmsRate currencyCode="AUD">
+        <valueNum>0</valueNum>
+      </pmsRate>
+      <roomNumber>0950</roomNumber>
+      <resourceId>{{profile_id}}</resourceId>
+      <pseudoRoom>0</pseudoRoom>
+      <pmsRoomCategory>LXK</pmsRoomCategory>
+    </DailyRate>
+  </DailyRates>
+  <hasDailyRooms>1</hasDailyRooms>
+</Stay>
