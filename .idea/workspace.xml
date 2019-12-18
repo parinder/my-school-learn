@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7428ad9-4744-4f62-be41-9146cec360dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseDatabaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -189,9 +188,9 @@
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/configuration/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/configuration/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/smoke/AddressBookSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/smoke/AddressBookSmokeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/smoke/BaseSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/smoke/BaseSmokeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/SubmitSurveyDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/SubmitSurveyDatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/smoke/AddressBookSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/smoke/AddressBookSmokeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/smoke/BaseSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/smoke/BaseSmokeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -400,7 +399,7 @@
       <workItem from="1576340058182" duration="6091000" />
       <workItem from="1576346254530" duration="357000" />
       <workItem from="1576346629804" duration="7086000" />
-      <workItem from="1576548559973" duration="10664000" />
+      <workItem from="1576548559973" duration="11065000" />
     </task>
     <servers />
   </component>
