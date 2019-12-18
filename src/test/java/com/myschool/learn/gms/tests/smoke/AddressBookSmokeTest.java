@@ -1,4 +1,4 @@
-package com.myschool.learn.gms.smoke;
+package com.myschool.learn.gms.tests.smoke;
 
 import com.myschool.learn.gms.pages.addressbook.*;
 import com.myschool.learn.gms.pages.profiles.MergeProfilePage;

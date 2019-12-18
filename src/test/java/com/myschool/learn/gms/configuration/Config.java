@@ -9,7 +9,7 @@ public class Config {
 	protected Properties configProperties;
 
 	public Config() throws IOException {
-		String targetConfig="C:\\Users\\pasingh\\Travelclick\\my-school-learn\\src\\test\\resources\\configuration\\local-prod-firefox.config.properties";
+		String targetConfig="C:\\Users\\pasingh\\Travelclick\\my-school-learn\\src\\test\\resources\\configuration\\local-p1-firefox.config.properties";
 		FileInputStream configFileInputStream = new FileInputStream(targetConfig);
 		configProperties = new Properties();
 		configProperties.load(configFileInputStream);

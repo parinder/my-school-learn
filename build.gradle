@@ -18,6 +18,10 @@ dependencies {
     testImplementation "org.seleniumhq.selenium:selenium-firefox-driver:3.141.5"
     testImplementation "org.testng:testng:6.14.3"
     implementation 'junit:junit:4.12'
+    compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.13'
+    compile group: 'com.jcraft', name: 'jsch', version: '0.1.44-1'
+
+
 }
 
 
