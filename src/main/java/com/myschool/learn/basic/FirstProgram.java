@@ -10,6 +10,7 @@ public class FirstProgram {
     }
 
     public String getMessage() {
+
         return message;
     }
 }
@@ -30,7 +31,7 @@ It's the entry point of any java code
 public -  The Public java keyword is an access modifier. An access modifier allows us to define the scope or how other parts of
 your code or even some else's code can access this code.
 
-static -
+static - No need Object to run this class
 
 void - Void is yet another keyword used to indicate that the method will not return anything.
 
