@@ -2,24 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7428ad9-4744-4f62-be41-9146cec360dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/SubmitSurveyDatabaseTestSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/basic/challenge/FirstProgramChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/variables/FirstVariableProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/variables/PrimitiveTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/variables/challenge/FirstVariableChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/Sample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/configuration/local-p1-firefox.config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/configuration/local-p1-firefox.config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/configuration/local-prod-firefox.config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/configuration/local-prod-firefox.config.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseDatabaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/SubmitSurveyDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/SubmitSurveyDatabaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration/local-p1-firefox.config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configuration/local-p1-firefox.config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myschool/learn/basic/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/basic/FirstProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/BaseDatabaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/SubmitSurveyDatabaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/unittests/basic/FirstProgramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/junit/basic/FirstProgramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration/local-prod-firefox.config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configuration/local-prod-firefox.config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +65,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="phptravels-framework" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -85,13 +92,13 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
-  <component name="RunManager" selected="Gradle.SubmitSurveyDatabaseTest.testSurveyEntryId">
-    <configuration name="SubmitSurveyDatabaseTestSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.myschool.learn.gms.tests.database.formcenter.SubmitSurveyDatabaseTestSample" />
-      <module name="my-school.test" />
+  <component name="RunManager" selected="Application.PrimitiveTypes">
+    <configuration name="FirstProgramChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myschool.learn.basic.challenge.FirstProgramChallenge" />
+      <module name="my-school.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.myschool.learn.gms.tests.database.formcenter.*" />
+          <option name="PATTERN" value="com.myschool.learn.basic.challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,72 +106,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubmitSurveyDatabaseTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.gms.tests.database.formcenter.SubmitSurveyDatabaseTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="FirstVariableChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myschool.learn.variables.challenge.FirstVariableChallenge" />
+      <module name="my-school.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myschool.learn.variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="SubmitSurveyDatabaseTest.getEmployeesFromDataBase" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.gms.tests.database.formcenter.SubmitSurveyDatabaseTest.getEmployeesFromDataBase&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="FirstVariableProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myschool.learn.variables.FirstVariableProgram" />
+      <module name="my-school.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myschool.learn.variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="SubmitSurveyDatabaseTest.testSurveyEntryId" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.gms.tests.database.formcenter.SubmitSurveyDatabaseTest.testSurveyEntryId&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
+    <configuration name="PrimitiveTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myschool.learn.variables.PrimitiveTypes" />
+      <module name="my-school.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myschool.learn.variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="SubmitSurveyTest.testSubmitSurvey" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Sample.testSurveyEntryId" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.gms.tests.formscenter.SubmitSurveyTest.testSubmitSurvey&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.myschool.learn.gms.tests.database.formcenter.Sample.testSurveyEntryId&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -181,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.SubmitSurveyDatabaseTest.testSurveyEntryId" />
-        <item itemvalue="Gradle.SubmitSurveyDatabaseTest" />
-        <item itemvalue="Gradle.SubmitSurveyDatabaseTest.getEmployeesFromDataBase" />
-        <item itemvalue="Application.SubmitSurveyDatabaseTestSample" />
-        <item itemvalue="Gradle.SubmitSurveyTest.testSubmitSurvey" />
+        <item itemvalue="Application.PrimitiveTypes" />
+        <item itemvalue="Application.FirstVariableChallenge" />
+        <item itemvalue="Application.FirstVariableProgram" />
+        <item itemvalue="Application.FirstProgramChallenge" />
+        <item itemvalue="Gradle.Sample.testSurveyEntryId" />
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +216,10 @@
       <workItem from="1576346629804" duration="7086000" />
       <workItem from="1576548559973" duration="11669000" />
       <workItem from="1576699145333" duration="8944000" />
+      <workItem from="1577135572211" duration="47000" />
+      <workItem from="1577135660575" duration="1986000" />
+      <workItem from="1577220489942" duration="37000" />
+      <workItem from="1577220764013" duration="2833000" />
     </task>
     <servers />
   </component>
@@ -264,10 +254,11 @@
     <state x="1622" y="-631" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576550901108" />
     <state x="1622" y="-631" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576345915371" />
     <state x="646" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576710786144" />
-    <state x="1507" y="-1082" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576346002303">
-      <screen x="976" y="-1082" width="1920" height="1050" />
+    <state x="2451" y="-2" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577042503033">
+      <screen x="1920" y="-2" width="1920" height="1050" />
     </state>
     <state x="1507" y="-1082" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346002303" />
+    <state x="2451" y="-2" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577042503033" />
     <state x="690" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576713306426">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -280,30 +271,38 @@
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
     <state x="1716" y="-748" key="FileChooserDialogImpl/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576550722326" />
-    <state width="1877" height="396" key="GridCell.Tab.0.bottom" timestamp="1576713574503">
+    <state width="1877" height="225" key="GridCell.Tab.0.bottom" timestamp="1577222997164">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1235" height="478" key="GridCell.Tab.0.bottom/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576682345841" />
     <state width="1877" height="478" key="GridCell.Tab.0.bottom/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576631376705" />
+    <state width="1877" height="225" key="GridCell.Tab.0.bottom/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577222997164" />
     <state width="1877" height="396" key="GridCell.Tab.0.bottom/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713574503" />
-    <state width="1877" height="396" key="GridCell.Tab.0.center" timestamp="1576713574503">
+    <state width="1877" height="290" key="GridCell.Tab.0.bottom/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577072126672" />
+    <state width="1877" height="225" key="GridCell.Tab.0.center" timestamp="1577222997164">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1235" height="478" key="GridCell.Tab.0.center/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576682345841" />
     <state width="1877" height="478" key="GridCell.Tab.0.center/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576631376704" />
+    <state width="1877" height="225" key="GridCell.Tab.0.center/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577222997164" />
     <state width="1877" height="396" key="GridCell.Tab.0.center/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713574503" />
-    <state width="1877" height="396" key="GridCell.Tab.0.left" timestamp="1576713574503">
+    <state width="1877" height="290" key="GridCell.Tab.0.center/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577072126672" />
+    <state width="1877" height="225" key="GridCell.Tab.0.left" timestamp="1577222997164">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1235" height="478" key="GridCell.Tab.0.left/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576682345841" />
     <state width="1877" height="478" key="GridCell.Tab.0.left/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576631376704" />
+    <state width="1877" height="225" key="GridCell.Tab.0.left/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577222997164" />
     <state width="1877" height="396" key="GridCell.Tab.0.left/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713574503" />
-    <state width="1877" height="396" key="GridCell.Tab.0.right" timestamp="1576713574503">
+    <state width="1877" height="290" key="GridCell.Tab.0.left/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577072126672" />
+    <state width="1877" height="225" key="GridCell.Tab.0.right" timestamp="1577222997164">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1235" height="478" key="GridCell.Tab.0.right/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576682345841" />
     <state width="1877" height="478" key="GridCell.Tab.0.right/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576631376704" />
+    <state width="1877" height="225" key="GridCell.Tab.0.right/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577222997164" />
     <state width="1877" height="396" key="GridCell.Tab.0.right/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713574503" />
+    <state width="1877" height="290" key="GridCell.Tab.0.right/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577072126672" />
     <state width="1877" height="185" key="GridCell.Tab.1.bottom" timestamp="1576713550096">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -326,13 +325,14 @@
     <state x="1311" y="-917" key="SettingsEditor/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576250362058" />
     <state x="1451" y="-915" key="SettingsEditor/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576550098351" />
     <state x="1451" y="-915" key="SettingsEditor/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576340036358" />
-    <state x="1360" y="-828" key="com.intellij.ide.util.TipDialog" timestamp="1576699217308">
-      <screen x="836" y="-1084" width="1920" height="1050" />
+    <state x="524" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577220807550">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@0.0.1280.689" timestamp="1576250065490" />
     <state x="1360" y="-828" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576699217308" />
     <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576548560028" />
     <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346630839" />
+    <state x="524" y="256" key="com.intellij.ide.util.TipDialog/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577220807550" />
     <state x="1581" y="-985" width="710" height="855" key="find.popup" timestamp="1576342157279">
       <screen x="976" y="-1082" width="1920" height="1050" />
     </state>
