@@ -1,32 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d7428ad9-4744-4f62-be41-9146cec360dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/basic/challenge/FirstProgramChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/variables/FirstVariableProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/variables/PrimitiveTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/variables/challenge/FirstVariableChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/my-school-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/configuration/local-prod-firefox.config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/configuration/local-prod-firefox.config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myschool/learn/basic/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myschool/learn/basic/FirstProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseDatabaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/BaseDatabaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/SubmitSurveyDatabaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/unittests/basic/FirstProgramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/junit/basic/FirstProgramTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration/local-prod-firefox.config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configuration/local-prod-firefox.config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/BaseApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/LoyaltyV1Api.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/LoyaltyV2Api.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/enterprise/AdminV1Api.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/enterprise/AuthApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/enterprise/FormsV1Api.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/enterprise/GuestApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/enterprise/GuestV2Api.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/enterprise/JobsV1Api.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/apis/messageprocessing/MicrosApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/configuration/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/helpers/AuthApiJsonHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/helpers/DataHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/helpers/FormattingHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/helpers/GuestApiJsonHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/helpers/LoyaltyV2ApiJsonHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/helpers/RandomDataHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/helpers/XmlDataHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/NavigationBarPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/ReportsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/WorkflowPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/AddEditCustomFieldsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/AddEditDatasourcePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/AddEditTagsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/AutoPurgeConfigurationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/DataDownloadPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/DataUploadPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/DeduplicationRulesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/EditFilterPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/EditMembershipProgramsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/FiltersHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/FiltersListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/GuestPortalsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/LoyaltyDashboardPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/ManualMergePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/NavigationBarPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/NewFilterPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/OBWSetupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/PostalContactsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/ProfileCompletenessSetupPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/addressbook/ViewContactsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/admin/ChangeListPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/admin/ManageUsersPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/admin/ManageUsersRoleModalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/admin/ManageUsersUserModalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/emailcenter/EventDrivenEmailsTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/emailcenter/HeaderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/emailcenter/ScheduledEmailsTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/emailcenter/TemplatesTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/emailcenter/email/HeaderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/emailcenter/email/HtmlTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/emailcenter/email/ScheduleEmailTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/emailcenter/email/SetupTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/emailcenter/email/TestTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/PdfReportPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/SurveyRenderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/ThankYouPreviewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/survey/HeaderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/survey/ReportsTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/survey/SettingsTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/survey/SurveyPagesTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/survey/ThankYouPagesTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/surveylist/HeaderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/surveylist/KpisTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/surveylist/ListOfSurveysTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/surveylist/QuestionManagerTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/formscenter/surveylist/UpgradeFormsTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/listownerpms/BaseListOwnerPmsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/listownerpms/ListOwnerPmsCreatePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/listownerpms/ListOwnerPmsEditPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/listownerpms/ListOwnerPmsManagerPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/pmscenter/PmsRequestEditPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/pmscenter/PmsRequestNewPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/pmscenter/PmsRequestPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/AddNewProfileModalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/MergeProfilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/ProfilesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/ConsentModalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/DetailsTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/HeaderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/LoyaltyTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/MessengerTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/OverviewTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/ReservationsTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/SurveyEntryModalPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/SurveysTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/profiles/profile/TimelineTabPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/propertymanager/HeaderPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/propertymanager/PropertyManagerPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/propertymanager/PropertyManagerPropertyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/rezqueue/RezqueueHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/rezqueue/RezqueueLoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/rezqueue/RezqueueMessengerPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/pages/surveys/BaseSurveyPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseFunctionalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/access/AccessTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/filters/AddNewFilterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/filters/BaseFiltersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/filters/FilterCountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/BaseProfilesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/CreateProfilesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/OnPropertyGuestsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/SearchProfilesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/SendMessageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/details/MobilePhoneValidationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ChangePasswordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ChangeUsernameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/EnrollNewProgramTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/LoyaltyCardsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ManagePointsAwardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ManagePointsRedeemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/MergeMembershipTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ProfilePageTierReassignTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/RedeemTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/SelectProgramTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/viewcontacts/BaseContactViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/addressbook/viewcontacts/ViewContactTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/admin/BaseAdminTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/admin/ChangeListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/admin/EditRoleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/admin/EditUserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/admin/NewRoleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/admin/NewUserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/adminv1/BaseAdminV1IntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/adminv1/ChainsCategoryTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/auth/AuthTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/formsv1/BaseFormsV1IntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/formsv1/QuestionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/guest/BaseGuestIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/guest/MembershipTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/guest/ProfilePagePreferencesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/guest/ProfilePageSearchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/guest/ProfilePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/guest/ReservationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/guestv2/BaseGuestV2IntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/guestv2/ProfilePageAppointmentsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/jobsv1/BaseJobsV1IntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/enterprise/jobsv1/JobScheduledResetPasswordTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/loyalty/v1/BaseLoyaltyV1IntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/loyalty/v1/LoyaltyV1LoginPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/loyalty/v1/LoyaltyV1ProfilePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/loyalty/v2/BaseLoyaltyV2IntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/loyalty/v2/LoyaltyV2AuthTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/api/messageprocessing/MicrosIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/BaseDatabaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/database/formcenter/Sample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/emailcenter/EventDrivenEmailsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/emailcenter/ScheduledEmailsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/emailcenter/TemplatesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/formscenter/BaseFormsCenterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/formscenter/EditSurveyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/formscenter/KpisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/formscenter/NavigationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/formscenter/QuestionManagerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/formscenter/SubmitSurveyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/formscenter/SurveyListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/formscenter/UpgradeFormsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/home/SectionLinkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/login/LoginPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/pmscenter/CreateListOwnerPmsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/pmscenter/CreatePropertyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/pmscenter/PmsRequestsListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/smoke/AddressBookSmokeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/tests/smoke/BaseSmokeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/phptravels/configuration/ConfigPhpTravels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/phptravels/configuration/ConfigPhpTravels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration/docker-p1-firefox.config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration/docker-prod-firefox.config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration/local-p1-firefox.config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration/local-prod-firefox.config.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,17 +241,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/test/java/com/myschool/learn/gms/configuration/Config.java" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="ProjectId" id="1UOFvZUIYpz8kzsJOy7SAIWeb9E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -175,18 +343,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -231,116 +387,22 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1528" y="-898" key="#Inspections" timestamp="1576346932745">
-      <screen x="976" y="-1082" width="1920" height="1050" />
+    <state x="718" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586749470878">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1528" y="-898" key="#Inspections/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346932745" />
-    <state x="1390" y="-902" width="1092" height="797" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576550875281">
-      <screen x="976" y="-1082" width="1920" height="1050" />
+    <state x="718" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1276.1080.1366.728/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586749470878" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586746267302">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1390" y="-902" width="1092" height="797" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576550875281" />
-    <state x="646" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576710786144">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="1622" y="-631" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576550901108" />
-    <state x="1622" y="-631" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576345915371" />
-    <state x="646" y="451" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576710786144" />
-    <state x="2451" y="-2" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577042503033">
-      <screen x="1920" y="-2" width="1920" height="1050" />
-    </state>
-    <state x="1507" y="-1082" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346002303" />
-    <state x="2451" y="-2" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577042503033" />
-    <state x="690" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576713306426">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="690" y="273" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713306426" />
-    <state x="1670" y="-795" key="EnvironmentVariablesDialog" timestamp="1576550386693">
-      <screen x="976" y="-1082" width="1920" height="1050" />
-    </state>
-    <state x="1670" y="-795" key="EnvironmentVariablesDialog/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576550386693" />
-    <state x="1716" y="-748" key="FileChooserDialogImpl" timestamp="1576550722326">
-      <screen x="976" y="-1082" width="1920" height="1050" />
-    </state>
-    <state x="1716" y="-748" key="FileChooserDialogImpl/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576550722326" />
-    <state width="1877" height="225" key="GridCell.Tab.0.bottom" timestamp="1577222997164">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1235" height="478" key="GridCell.Tab.0.bottom/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576682345841" />
-    <state width="1877" height="478" key="GridCell.Tab.0.bottom/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576631376705" />
-    <state width="1877" height="225" key="GridCell.Tab.0.bottom/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577222997164" />
-    <state width="1877" height="396" key="GridCell.Tab.0.bottom/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713574503" />
-    <state width="1877" height="290" key="GridCell.Tab.0.bottom/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577072126672" />
-    <state width="1877" height="225" key="GridCell.Tab.0.center" timestamp="1577222997164">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1235" height="478" key="GridCell.Tab.0.center/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576682345841" />
-    <state width="1877" height="478" key="GridCell.Tab.0.center/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576631376704" />
-    <state width="1877" height="225" key="GridCell.Tab.0.center/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577222997164" />
-    <state width="1877" height="396" key="GridCell.Tab.0.center/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713574503" />
-    <state width="1877" height="290" key="GridCell.Tab.0.center/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577072126672" />
-    <state width="1877" height="225" key="GridCell.Tab.0.left" timestamp="1577222997164">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1235" height="478" key="GridCell.Tab.0.left/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576682345841" />
-    <state width="1877" height="478" key="GridCell.Tab.0.left/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576631376704" />
-    <state width="1877" height="225" key="GridCell.Tab.0.left/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577222997164" />
-    <state width="1877" height="396" key="GridCell.Tab.0.left/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713574503" />
-    <state width="1877" height="290" key="GridCell.Tab.0.left/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577072126672" />
-    <state width="1877" height="225" key="GridCell.Tab.0.right" timestamp="1577222997164">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1235" height="478" key="GridCell.Tab.0.right/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576682345841" />
-    <state width="1877" height="478" key="GridCell.Tab.0.right/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576631376704" />
-    <state width="1877" height="225" key="GridCell.Tab.0.right/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577222997164" />
-    <state width="1877" height="396" key="GridCell.Tab.0.right/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713574503" />
-    <state width="1877" height="290" key="GridCell.Tab.0.right/944.1080.1280.700/1920.-2.1920.1050/0.0.1920.1050@1920.-2.1920.1050" timestamp="1577072126672" />
-    <state width="1877" height="185" key="GridCell.Tab.1.bottom" timestamp="1576713550096">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="185" key="GridCell.Tab.1.bottom/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713550096" />
-    <state width="1877" height="185" key="GridCell.Tab.1.center" timestamp="1576713550096">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="185" key="GridCell.Tab.1.center/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713550096" />
-    <state width="1877" height="185" key="GridCell.Tab.1.left" timestamp="1576713550096">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="185" key="GridCell.Tab.1.left/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713550096" />
-    <state width="1877" height="185" key="GridCell.Tab.1.right" timestamp="1576713550096">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="185" key="GridCell.Tab.1.right/1920.-2.1920.1050/0.0.1920.1050/944.1080.1280.689@0.0.1920.1050" timestamp="1576713550096" />
-    <state x="1451" y="-915" key="SettingsEditor" timestamp="1576550098351">
-      <screen x="976" y="-1082" width="1920" height="1050" />
-    </state>
-    <state x="1311" y="-917" key="SettingsEditor/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576250362058" />
-    <state x="1451" y="-915" key="SettingsEditor/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576550098351" />
-    <state x="1451" y="-915" key="SettingsEditor/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576340036358" />
-    <state x="524" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577220807550">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="349" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@0.0.1280.689" timestamp="1576250065490" />
-    <state x="1360" y="-828" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-1084.-1080.1920.1050/836.-1084.1920.1050@836.-1084.1920.1050" timestamp="1576699217308" />
-    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog/0.0.1280.689/-944.-1080.1920.1050/976.-1082.1920.1050@976.-1082.1920.1050" timestamp="1576548560028" />
-    <state x="1500" y="-826" key="com.intellij.ide.util.TipDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576346630839" />
-    <state x="524" y="256" key="com.intellij.ide.util.TipDialog/1019.1080.1280.700/1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1577220807550" />
-    <state x="1581" y="-985" width="710" height="855" key="find.popup" timestamp="1576342157279">
-      <screen x="976" y="-1082" width="1920" height="1050" />
-    </state>
-    <state x="1581" y="-985" width="710" height="855" key="find.popup/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576342157279" />
-    <state x="1678" y="-927" key="refactoring.ChangeSignatureDialog" timestamp="1576341550904">
-      <screen x="976" y="-1082" width="1920" height="1050" />
-    </state>
-    <state x="1678" y="-927" key="refactoring.ChangeSignatureDialog/0.0.1280.689/976.-1082.1920.1050/-944.-1080.1920.1050@976.-1082.1920.1050" timestamp="1576341550904" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1276.1080.1366.728/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586746267302" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/my_school$LoginTest.ic" NAME="LoginTest Coverage Results" MODIFIED="1575774484110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

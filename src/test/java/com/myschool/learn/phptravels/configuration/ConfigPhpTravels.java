@@ -8,7 +8,7 @@ public class ConfigPhpTravels {
     protected Properties configProperties;
 
     public ConfigPhpTravels() throws IOException{
-        String targetConfigPhpTravels="C:\\Users\\pasingh\\Travelclick\\my-school-learn\\src\\test\\resources\\configuration\\local-phptravels-firefox-config.properties";
+        String targetConfigPhpTravels="C:\\Users\\parin\\workspace\\my-school-learn\\src\\test\\resources\\configuration\\local-phptravels-firefox-config.properties";
         FileInputStream configPhpTravelsInputStream=new FileInputStream(targetConfigPhpTravels);
         configProperties=new Properties();
         configProperties.load(configPhpTravelsInputStream);
