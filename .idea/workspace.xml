@@ -20,221 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7428ad9-4744-4f62-be41-9146cec360dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my-school-learn.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/2225029a-92ec-4894-aa48-6270c65e60d5-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/31ec7657-5def-4773-9d2e-cc8f9af42182-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/57e69358-dbd9-42c9-bb7a-4d0fb09f4657-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/593a0bcf-2040-4ab4-ab6f-1f68f61ed125-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/5a94bd3b-26fc-4f24-b7d7-57fefadf7a71-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/60541d0d-c22e-48ab-b517-7a599a66bab1-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/764498dc-398e-4ada-b5c8-fe452d2b6e98-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/8116535f-f082-41f4-82f5-48fb7cab2d7f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/a00433c1-0f3a-4cc4-abbd-0e8ca311454f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/e1717f93-26d8-4215-8dbc-201a80516788-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/allure-results/e3f59567-cc58-46a7-847c-ce35dc3f9d23-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/myschool/learn/basic/FirstProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/BaseApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/LoyaltyV1Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/LoyaltyV2Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/enterprise/AdminV1Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/enterprise/AuthApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/enterprise/FormsV1Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/enterprise/GuestApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/enterprise/GuestV2Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/enterprise/JobsV1Api.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/apis/messageprocessing/MicrosApi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/configuration/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/helpers/AuthApiJsonHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/helpers/DataHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/helpers/FormattingHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/helpers/GuestApiJsonHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/helpers/LoyaltyV2ApiJsonHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/helpers/RandomDataHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/helpers/XmlDataHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/BasePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/HomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/NavigationBarPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/ReportsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/WorkflowPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/AddEditCustomFieldsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/AddEditDatasourcePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/AddEditTagsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/AutoPurgeConfigurationPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/DataDownloadPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/DataUploadPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/DeduplicationRulesPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/EditFilterPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/EditMembershipProgramsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/FiltersHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/FiltersListPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/GuestPortalsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/LoyaltyDashboardPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/ManualMergePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/NavigationBarPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/NewFilterPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/OBWSetupPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/PostalContactsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/ProfileCompletenessSetupPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/addressbook/ViewContactsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/admin/ChangeListPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/admin/ManageUsersPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/admin/ManageUsersRoleModalPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/admin/ManageUsersUserModalPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/emailcenter/EventDrivenEmailsTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/emailcenter/HeaderPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/emailcenter/ScheduledEmailsTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/emailcenter/TemplatesTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/emailcenter/email/HeaderPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/emailcenter/email/HtmlTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/emailcenter/email/ScheduleEmailTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/emailcenter/email/SetupTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/emailcenter/email/TestTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/PdfReportPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/SurveyRenderPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/ThankYouPreviewPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/survey/HeaderPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/survey/ReportsTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/survey/SettingsTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/survey/SurveyPagesTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/survey/ThankYouPagesTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/surveylist/HeaderPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/surveylist/KpisTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/surveylist/ListOfSurveysTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/surveylist/QuestionManagerTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/formscenter/surveylist/UpgradeFormsTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/listownerpms/BaseListOwnerPmsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/listownerpms/ListOwnerPmsCreatePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/listownerpms/ListOwnerPmsEditPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/listownerpms/ListOwnerPmsManagerPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/pmscenter/PmsRequestEditPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/pmscenter/PmsRequestNewPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/pmscenter/PmsRequestPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/AddNewProfileModalPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/MergeProfilePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/ProfilesPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/ConsentModalPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/DetailsTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/HeaderPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/LoyaltyTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/MessengerTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/OverviewTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/ReservationsTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/SurveyEntryModalPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/SurveysTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/profiles/profile/TimelineTabPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/propertymanager/HeaderPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/propertymanager/PropertyManagerPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/propertymanager/PropertyManagerPropertyPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/rezqueue/RezqueueHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/rezqueue/RezqueueLoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/rezqueue/RezqueueMessengerPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/pages/surveys/BaseSurveyPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/BaseFunctionalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/BaseIntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/access/AccessTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/filters/AddNewFilterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/filters/BaseFiltersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/filters/FilterCountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/BaseProfilesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/CreateProfilesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/OnPropertyGuestsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/SearchProfilesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/SendMessageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/details/MobilePhoneValidationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ChangePasswordTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ChangeUsernameTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/EnrollNewProgramTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/LoyaltyCardsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ManagePointsAwardTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ManagePointsRedeemTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/MergeMembershipTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/ProfilePageTierReassignTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/RedeemTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/profiles/loyalty/SelectProgramTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/viewcontacts/BaseContactViewTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/addressbook/viewcontacts/ViewContactTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/admin/BaseAdminTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/admin/ChangeListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/admin/EditRoleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/admin/EditUserTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/admin/NewRoleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/admin/NewUserTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/adminv1/BaseAdminV1IntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/adminv1/ChainsCategoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/auth/AuthTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/formsv1/BaseFormsV1IntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/formsv1/QuestionsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/guest/BaseGuestIntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/guest/MembershipTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/guest/ProfilePagePreferencesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/guest/ProfilePageSearchTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/guest/ProfilePageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/guest/ReservationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/guestv2/BaseGuestV2IntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/guestv2/ProfilePageAppointmentsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/jobsv1/BaseJobsV1IntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/enterprise/jobsv1/JobScheduledResetPasswordTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/loyalty/v1/BaseLoyaltyV1IntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/loyalty/v1/LoyaltyV1LoginPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/loyalty/v1/LoyaltyV1ProfilePageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/loyalty/v2/BaseLoyaltyV2IntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/loyalty/v2/LoyaltyV2AuthTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/api/messageprocessing/MicrosIntegrationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/emailcenter/EventDrivenEmailsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/emailcenter/ScheduledEmailsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/emailcenter/TemplatesTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/formscenter/BaseFormsCenterTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/formscenter/EditSurveyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/formscenter/KpisTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/formscenter/NavigationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/formscenter/QuestionManagerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/formscenter/SubmitSurveyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/formscenter/SurveyListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/formscenter/UpgradeFormsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/home/SectionLinkTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/login/LoginPageTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/pmscenter/CreateListOwnerPmsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/pmscenter/CreatePropertyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/gms/tests/pmscenter/PmsRequestsListTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/configuration/ConfigPhpTravels.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/configuration/ConfigPhpTravels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/pages/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/pages/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/pages/login/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/pages/login/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/pages/profile/ProfilePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/pages/profile/ProfilePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/BaseFunctionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/BaseFunctionalTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/home/SectionLinksTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/home/SectionLinksTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/login/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/login/LoginPageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/navigation/NavigationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/navigation/NavigationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/searchengine/FlightsSearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/searchengine/FlightsSearchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/searchengine/HotelsSearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/phptravels/tests/searchengine/HotelsSearchTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/myschool/learn/unittests/basic/FirstProgramTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/my-school.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/my-school.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/configuration/docker-p1-firefox.config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/configuration/docker-prod-firefox.config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/configuration/local-p1-firefox.config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/configuration/local-prod-firefox.config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/myschool/learn/phptravels/configuration/ConfigPhpTravels.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/myschool/learn/phptravels/configuration/ConfigPhpTravels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/configuration/local-phptravels-firefox-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configuration/local-phptravels-firefox-config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,6 +155,9 @@
         <value defaultName="moduleWithDependencies" />
       </option>
       <option name="PROPERTIES_FILE" value="" />
+      <envs>
+        <env name="AUTOMATED_TEST_ENV_CONFIG" value="local-phptravels-firefox" />
+      </envs>
       <properties />
       <listeners />
       <method v="2">
@@ -422,9 +221,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="345" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586751172558">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587943880011">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="274" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587943880011" />
     <state x="524" y="345" key="#com.intellij.execution.impl.EditConfigurationsDialog/1276.1080.1366.728/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586751172558" />
     <state x="718" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586749470878">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -434,25 +234,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1276.1080.1366.728/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586746267302" />
+    <state x="687" y="138" width="492" height="489" key="EnvironmentVariablesDialog" timestamp="1587943049106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="138" width="492" height="489" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587943049106" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586749918370">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1276.1080.1366.728/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586749918370" />
-    <state width="1877" height="209" key="GridCell.Tab.0.bottom" timestamp="1586751176989">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="244" key="GridCell.Tab.0.bottom" timestamp="1587943757250">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587943757250" />
     <state width="1877" height="209" key="GridCell.Tab.0.bottom/1276.1080.1366.728/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586751176989" />
-    <state width="1877" height="209" key="GridCell.Tab.0.center" timestamp="1586751176988">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="244" key="GridCell.Tab.0.center" timestamp="1587943757250">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587943757250" />
     <state width="1877" height="209" key="GridCell.Tab.0.center/1276.1080.1366.728/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586751176988" />
-    <state width="1877" height="209" key="GridCell.Tab.0.left" timestamp="1586751176988">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="244" key="GridCell.Tab.0.left" timestamp="1587943757250">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587943757250" />
     <state width="1877" height="209" key="GridCell.Tab.0.left/1276.1080.1366.728/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586751176988" />
-    <state width="1877" height="209" key="GridCell.Tab.0.right" timestamp="1586751176988">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="244" key="GridCell.Tab.0.right" timestamp="1587943757250">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587943757250" />
     <state width="1877" height="209" key="GridCell.Tab.0.right/1276.1080.1366.728/1920.-6.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586751176988" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1586750775026">
       <screen x="0" y="0" width="1920" height="1040" />

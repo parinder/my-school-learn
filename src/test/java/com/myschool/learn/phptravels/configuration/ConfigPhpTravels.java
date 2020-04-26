@@ -9,10 +9,12 @@ public class ConfigPhpTravels {
     protected Properties configProperties;
 
     public ConfigPhpTravels() throws IOException{
-        String targetConfigPhpTravels="configuration/" + System.getenv("AUTOMATED_TEST_ENV_CONFIG") + ".config.properties";
+        String targetConfigPhpTravels="configuration/" + System.getenv("AUTOMATED_TEST_ENV_CONFIG") + "-config.properties";
         this.loadPropertiesFile(targetConfigPhpTravels);
     }
     private void loadPropertiesFile(String filepath) throws IOException {
+        this.configProperties = new Properties();
+
         ClassLoader classLoader = ClassLoader.getSystemClassLoader();
         File file = new File(classLoader.getResource(filepath).getFile());
         FileInputStream configFileInputStream = new FileInputStream(file);
